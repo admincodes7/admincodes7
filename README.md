@@ -1,4 +1,4 @@
-### Hey, I'm Hemanth
+### Hey, I'm Hemanth S Banur
 Computer Science undergrad @ PES University.<br/>
 Building AI and scalable systems. <br/>
 <br/>
